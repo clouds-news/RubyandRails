@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-
+# I am a comment. Just ignore me.
 puts "This is main Ruby Program"
 
 END {
